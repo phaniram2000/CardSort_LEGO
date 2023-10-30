@@ -1,7 +1,5 @@
 using System;
-using System.Collections.Generic;
 using StateMachine;
-using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;

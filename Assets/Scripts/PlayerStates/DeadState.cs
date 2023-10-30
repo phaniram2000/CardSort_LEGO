@@ -1,4 +1,3 @@
-using DitzeGames.Effects;
 using StateMachine;
 
 public class DeadState : InputStateBase

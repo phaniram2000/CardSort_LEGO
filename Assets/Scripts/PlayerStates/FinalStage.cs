@@ -1,8 +1,4 @@
-using System;
-using DG.Tweening;
 using StateMachine;
-using UnityEngine;
-using Random = UnityEngine.Random;
 
 public class FinalStage : InputStateBase
 {
